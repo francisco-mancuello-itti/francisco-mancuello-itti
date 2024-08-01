@@ -1,6 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1>Hi there, I'm Francisco Mancuello 👋</h1>
 
@@ -8,7 +6,7 @@
 
 - 🫡 Currently working as a `Frontend Developer` at Itti
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github stats </b>
 
@@ -19,7 +17,7 @@
 
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!---
 francisco-mancuello-itti/francisco-mancuello-itti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
